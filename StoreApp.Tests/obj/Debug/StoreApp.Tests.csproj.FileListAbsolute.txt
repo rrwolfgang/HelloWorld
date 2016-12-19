@@ -1,0 +1,84 @@
+c:\users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\bin\Debug\StoreApp.Tests.dll
+c:\users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\bin\Debug\StoreApp.Tests.pdb
+c:\users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\bin\Debug\StoreApp.dll
+c:\users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\bin\Debug\System.Web.Http.dll
+c:\users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\bin\Debug\System.Web.Http.WebHost.dll
+c:\users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\bin\Debug\StoreApp.pdb
+c:\users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\bin\Debug\System.Web.Http.xml
+c:\users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\bin\Debug\System.Web.Http.WebHost.xml
+c:\users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\obj\Debug\StoreApp.Tests.csprojResolveAssemblyReference.cache
+c:\users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\obj\Debug\StoreApp.Tests.dll
+c:\users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\obj\Debug\StoreApp.Tests.pdb
+C:\Users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\bin\Debug\EntityFramework.dll
+C:\Users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\bin\Debug\EntityFramework.xml
+C:\Users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\bin\Debug\StoreApp.Tests.dll.config
+C:\Users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomfitz\documents\visual studio 2013\Projects\StoreApp\StoreApp.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\StoreApp.Tests.dll.config
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\StoreApp.Tests.dll
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\StoreApp.Tests.pdb
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\EntityFramework.dll
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\StoreApp.dll
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Http.dll
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\StoreApp.pdb
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\EntityFramework.xml
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Http.xml
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Samples\HelloWorld\StoreApp.Tests\obj\Debug\StoreApp.Tests.csprojResolveAssemblyReference.cache
+C:\Samples\HelloWorld\StoreApp.Tests\obj\Debug\StoreApp.Tests.dll
+C:\Samples\HelloWorld\StoreApp.Tests\obj\Debug\StoreApp.Tests.pdb
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Razor.dll
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Razor.xml
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Samples\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\StoreApp.Tests.dll.config
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\StoreApp.Tests.dll
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\StoreApp.Tests.pdb
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\EntityFramework.dll
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\StoreApp.dll
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\StoreApp.pdb
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\EntityFramework.xml
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\obj\Debug\StoreApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\obj\Debug\StoreApp.Tests.dll
+C:\Users\rwolfgang\Source\Workspaces\Workspace\HelloWorld02\HelloWorld\StoreApp.Tests\obj\Debug\StoreApp.Tests.pdb
